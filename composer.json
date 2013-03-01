@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/zepto-bundle",
+    "type":        "symfony-bundle",
+    "description": "Zepto.js Bundle for Symfony2",
+    "keywords":    ["zepto", "javascript", "symfony"],
+    "homepage":    "http://zeptojs.com/",
+    "license":     "MIT",
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\ZeptoBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/ZeptoBundle"
+}
