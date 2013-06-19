@@ -69,5 +69,5 @@ Refer to the source code of the included files for license information
 
 ## References
 
-1. http://zepto.com
+1. http://zeptojs.com
 2. http://symfony.com
