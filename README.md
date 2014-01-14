@@ -3,7 +3,7 @@ Zepto.js Bundle for Symfony2
 
 ## Current Version
 
-Zepto.js v1.0
+Zepto.js v1.1.2
 
 ## Installation
 
